@@ -4,7 +4,7 @@
  */
 package gofishgameproject;
 
-public class GoFishGameProject {
+public class GoFishGamePlay {
    
     public static void main(String[] args) {
 
